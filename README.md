@@ -194,12 +194,7 @@ A **full-featured Examination / Quiz System** built with PHP and MySQL. This sys
 
 ---
 
-## 📷 Screenshots
-> *(Add screenshots of the student dashboard, quiz interface, admin panel, and analytics pages here)*
-
----
-
 ## ⚙️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lms-quiz-system.git
+   git clone https://github.com/adexx/lms-quiz-system.git
